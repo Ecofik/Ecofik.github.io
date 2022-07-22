@@ -483,6 +483,7 @@ body {
     }
     .footer__imput{
         flex: 1; 
+        cursor: pointer;
     }
 }
 
