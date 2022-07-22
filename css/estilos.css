@@ -221,7 +221,7 @@ body {
     --color-plan: #696871; 
     --color-price: #10293f;
     --bg-cta: #fff;
-    ---color-cta: #5454D4;
+    ---color-cta: #0000008c;
     --color-items: #696871; 
    
 }
@@ -368,11 +368,12 @@ body {
     display: inline-block;
     height: 50px; 
     padding: 0 20px;
-    background-color: #2091f9;
+    background-color: #0000008c;
     border: none; 
     font-size: 1rem; 
     color: #fff; 
     border-radius: 6px;
+    cursor: pointer;
 }
 .footer__copy{
     --padding-container: 30px  0; 
@@ -400,7 +401,7 @@ body {
     }
     .nav__link--menu{
         position: fixed;
-        background-color: #000f;
+        background-color: #ffff;
         top: 0;
         left: 0;
         height: 100%;
@@ -560,10 +561,10 @@ body {
         display: inline-block;
         height: 50px; 
         padding: 0 20px; 
-        background-color: #2091f9;
+        background-color: #1e2225;
         border: none; 
         font-size: 1rem;
-        color: #fff;
+        color: #0000008c;
         border-radius: 6px;
         margin-left: 0;
         cursor: pointer;
