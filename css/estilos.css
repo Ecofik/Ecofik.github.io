@@ -89,6 +89,7 @@ body {
 }
 .nav__close {
     display: var(--show, none);
+    cursor: pointer;
 }
 
 /* Hero container */
@@ -345,7 +346,8 @@ body {
 .footer__inputs{
     margin-top: 10px;
     display: flex; 
-    overflow: hidden
+    overflow: hidden;
+    cursor: pointer;
 }
 
 .footer__input{
