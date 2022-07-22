@@ -344,10 +344,10 @@ body {
     flex-wrap: wrap;
 }
 .footer__inputs{
-    margin-top: 10px;
+    margin-top: 5px;
     display: flex; 
     overflow: hidden;
-    cursor: pointer;
+    
 }
 
 .footer__input{
@@ -360,6 +360,7 @@ body {
     outline: none; 
     border: none; 
     margin-right: 16px;  
+    cursor: pointer;
 }
 
 .footer__submit{
